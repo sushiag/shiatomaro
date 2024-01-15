@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Trishia! I prefer to be called shia or trish!
+- 👋 Hi, I’m Trishia! I prefer to be called shia
 - 👀 I’m interested in learning about everything
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and a.i
 - 💞️ I’m looking to collaborate on projects related to management and support
 - 📫 How to reach me? officialtrishiagavile@gmail.com
 
