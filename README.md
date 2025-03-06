@@ -35,8 +35,11 @@ Twitter: https://x.com/sushiachan
 🏆 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiatomaro&show_icons=true&theme=jolly)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiatomaro&layout=compact&theme=jolly&cache_seconds=3600)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=shiatomaro&theme=jolly)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiatomaro&theme=jolly)
 
 
 <!---
