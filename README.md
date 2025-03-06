@@ -39,7 +39,6 @@ Twitter: https://x.com/sushiachan
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiatomaro&layout=compact&theme=jolly&cache_seconds=3600)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiatomaro&theme=jolly)
 
 
 <!---
