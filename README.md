@@ -1,8 +1,8 @@
-Hi there, I'm user ShiaTomaro
+Hi there, I'm ShiaTomaro
 
 🚀 About Me
 
-I'm a Go and JavaScript developer who loves building scalable applications. I specialize in backend development with Go and enjoy working with React.js and Material UI for front-end projects.
+I'm a Cybersecurity, Go and JavaScript developer who loves building scalable applications. I specialize in backend development with Go and enjoy working with React.js and Material UI for front-end projects.
 
 💻 Tech Stack
 
