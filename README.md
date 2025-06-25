@@ -1,9 +1,9 @@
 Hi there, I'm ShiaTomaro
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiatomaro&show_icons=true&theme=jolly)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushiag&show_icons=true&theme=jolly)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiatomaro&layout=compact&theme=jolly&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushiag&layout=compact&theme=jolly&cache_seconds=3600)
 
 
 
