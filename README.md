@@ -1,4 +1,4 @@
-Hi there, I'm ShiaTomaro
+Hi there, I'm Shia
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushiag&show_icons=true&theme=jolly)
 
